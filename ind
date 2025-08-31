@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Products - ElectraGO</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="ElectraGO Logo">
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="products.html" class="active">Products</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+
+    <div class="container">
+        <h1 class="page-title">Our Products</h1>
+        
+        <div class="products-grid">
+            <!-- Arduino Boards -->
+            <div class="product">
+                <img src="images/products/arduino-mega.jpg" alt="Arduino Mega" class="product-img">
+                <div class="product-info">
+                    <h3>Arduino Mega (with cable)</h3>
+                    <div class="price">1420 EGP</div>
+                </div>
+            </div>
+            
+            <div class="product">
+                <img src="images/products/arduino-uno.jpg" alt="Arduino UNO" class="product-img">
+                <div class="product-info">
+                    <h3>Arduino UNO (with cable)</h3>
+                    <div class="price">450 EGP</div>
+                </div>
+            </div>
+            
+            <div class="product">
+                <img src="images/products/arduino-nano.jpg" alt="Arduino Nano" class="product-img">
+                <div class="product-info">
+                    <h3>Arduino Nano (with cable)</h3>
+                    <div class="price">265 EGP</div>
+                </div>
+            </div>
+            
+            <!-- ESP Boards -->
+            <div class="product">
+                <img src="images/products/esp32.jpg" alt="ESP32" class="product-img">
+                <div class="product-info">
+                    <h3>ESP 32-38pin</h3>
+                    <div class="price">360 EGP</div>
+                </div>
+            </div>
+            
+            <!-- Sensors -->
+            <div class="product">
+                <img src="images/products/accelerometer.jpg" alt="Accelerometer" class="product-img">
+                <div class="product-info">
+                    <h3>Accelerometer Sensor</h3>
+                    <div class="price">Contact for price</div>
+                </div>
+            </div>
+            
+            <div class="product">
+                <img src="images/products/flex-sensor.jpg" alt="Flex Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Flex Sensor</h3>
+                    <div class="price">Contact for price</div>
+                </div>
+            </div>
+            
+            <div class="product">
+                <img src="images/products/dht11.jpg" alt="DHT11" class="product-img">
+                <div class="product-info">
+                    <h3>Temperature Sensor DHT11</h3>
+                    <div class="price">55 EGP</div>
+                </div>
+            </div>
+            
+            <div class="product">
+                <img src="images/products/soil-moisture.jpg" alt="Soil Moisture" class="product-img">
+                <div class="product-info">
+                    <h3>Soil Moisture Sensor</h3>
+                    <div class="price">55 EGP</div>
+                </div>
+            </div>
+            
+            <div class="product">
+                <img src="images/products/mq5.jpg" alt="MQ5 Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>MQ-5 Gas Sensor</h3>
+                    <div class="price">80 EGP</div>
+                </div>
+            </div>
+            
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>            
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>            
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+            <div class="product">
+                <img src="images/products/color-sensor.jpg" alt="Color Sensor" class="product-img">
+                <div class="product-info">
+                    <h3>Color Sensor</h3>
+                    <div class="price">300 EGP</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-column">
+                <h3>ElectraGO</h3>
+                <p>Your trusted electronics components supplier in Egypt</p>
+                <div class="social-links">
+                    <a href="https://www.instagram.com/electrago.eg/" target="_blank"><i class="fab fa-instagram"></i></a>
+                    <a href="https://wa.me/2001031385675" target="_blank"><i class="fab fa-whatsapp"></i></a>
+                </div>
+            </div>
+            
+            <div class="footer-column">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="products.html">Products</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-column">
+                <h3>Contact</h3>
+                <ul>
+                    <li><i class="fas fa-phone"></i> 01031385675</li>
+                    <li><i class="fas fa-envelope"></i> electraelectronics39@gmail.com</li>
+                    <li><i class="fas fa-map-marker-alt"></i> Cairo, Egypt</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="copyright">
+            <p>&copy; 2025 ElectraGO. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
